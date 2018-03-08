@@ -6,7 +6,7 @@ class Circle {
         this.top = top
         this.color = color
 
-
+// linea adicional
         var iDiv = document.createElement('div')
 
 
